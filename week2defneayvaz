@@ -1,0 +1,218 @@
+void setup (){
+  // Set window size
+  size (400,400);
+  
+ 
+}
+
+void draw (){
+  background(#FFFFFF);
+  
+  noStroke();
+  fill(#9B5FBC);
+  rect(0,0,50,50);
+  
+   noStroke();
+  fill(#E7B4F7);
+  rect(50,0,50,50);
+  
+  noStroke();
+  fill(#F8A4FA);
+  rect(100,0,50,50);
+
+  noStroke();
+  fill(#CB8BFA);
+  rect(50,50,50,50);
+  
+  noStroke();
+  fill(#DE7CE0);
+  rect(0,50,50,50);
+  
+  noStroke();
+  fill(#D653D8);
+  rect(100,50,50,50);
+  
+  noStroke();
+  fill(#A514A7);
+  rect(150,50,50,50);
+  
+    noStroke();
+  fill(#630C64);
+  rect(150,0,50,50);
+  
+  noStroke();
+  fill(#643764);
+  rect(0,100,50,50);
+  
+  noStroke();
+  fill(#995B9B);
+  rect(50,100,50,50);
+  
+  noStroke();
+  fill(#BE9CBF);
+  rect(100,100,50,50);
+  
+  noStroke();
+  fill(#D3BED3);
+  rect(150,100,50,50);
+  
+  noStroke();
+  fill(#691176);
+  rect(0,150,50,50);
+  
+  noStroke();
+  fill(#7E4CA7);
+  rect(50,150,50,50);
+  
+  noStroke();
+  fill(#7A25C1);
+  rect(100,150,50,50);
+  
+  noStroke();
+  fill(#D4A5E3);
+  rect(150,150,50,50);
+  
+  //starting ellipse
+  
+  noStroke();
+  fill(#372AAF);
+  rect(0,200,200,200);
+  
+  noStroke();
+  fill(#A8D9EA);
+  ellipse(100,300,200,200);
+  
+  noStroke();
+  fill(#34B9E8);
+  rect(30,230,140,140);
+  
+  noStroke();
+  fill(#1D708E);
+  ellipse(100,300,140,140);
+  
+  noStroke();
+  fill(#ADF5F3);
+  rect(51,251,98,98);
+  
+  noStroke();
+  fill(#2171BF);
+  ellipse(100,300,98,98);
+  
+  noStroke();
+  fill(#214EBF);
+  rect(65,266,69,69);
+  
+  noStroke();
+  fill(#C1D5F5);
+  ellipse(100,300,67,67);
+  
+  noStroke();
+  fill(#7099DE);
+  rect(77,276,48,48);
+  
+  noStroke();
+  fill(#5EDBE8);
+  ellipse(101,300,47,47);
+  
+  noStroke();
+  fill(#1D7F89);
+  rect(85,284,32,32);
+  
+  noStroke();
+  fill(#B1EAF0);
+  ellipse(101,300,32,32);
+  
+  noStroke();
+  fill(#0F4E98);
+  rect(90,289,22,22);
+  
+  noStroke();
+  fill(#25D8CE);
+  ellipse(101,300,22,22);
+  
+  noStroke();
+  fill(#111A76);
+  rect(93,292,16,16);
+  
+  //starting quad and triangle
+  
+  noStroke();
+  fill(#F02940);
+  triangle(200,0,200,200,300,100);
+  
+  noStroke();
+  fill(#F75E16);
+  triangle(400,0,300,100,400,200);
+  
+  noStroke();
+  fill(#FEFF0A);
+  triangle(200,200,300,100,400,200);
+  
+  noStroke();
+  fill(#E8932A);
+  triangle(300,100,200,0,400,0);
+  
+  
+  
+  fill(#3EAF30);
+  quad(350,200,250,200,200,400,400,400);
+  
+  
+  strokeWeight(3);
+  stroke(#8FF09F);
+  line(250,201,300,400);
+  
+  strokeWeight(3);
+  stroke(#8FF09F);
+  line(350,201,300,400);
+ 
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,205,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,214,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,222,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,230,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,240,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(200,400,240,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(400,400,355,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(400,400,365,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(400,400,375,200);
+  
+  strokeWeight(3);
+  stroke(#1E672B);
+  line(400,400,385,200);
+  
+   strokeWeight(3);
+  stroke(#1E672B);
+  line(400,400,395,200);
+}  
+  
+  
+  
+  
+  
+  
